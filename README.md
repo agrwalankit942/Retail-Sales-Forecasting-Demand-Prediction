@@ -1,3 +1,9 @@
+<img width="840" height="840" alt="image" src="https://github.com/user-attachments/assets/bb9b2e45-819a-493a-b00e-56e4106feda4" />
+<img width="840" height="840" alt="image" src="https://github.com/user-attachments/assets/179d64b6-ebeb-4353-bc33-1cbee1860bae" />
+
+<img width="840" height="840" alt="image" src="https://github.com/user-attachments/assets/9858d976-920f-4410-a2d4-e2f95791cfc6" />
+
+
 # 📊 Retail Demand Forecasting using Time Series Models
 
 ## 📌 Project Overview
